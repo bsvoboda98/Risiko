@@ -1,0 +1,48 @@
+0
+control
+Asia
+
+1
+conquer
+4 cities
+in one turn
+2
+control
+Nort America
+
+3
+control
+Europe
+
+4
+control
+1 enemy
+capital
+5
+control
+8 cities
+
+6
+control
+2 continents
+
+7
+control 
+2 enemy
+capitals
+8
+control
+11 cities
+
+9
+conquer a
+continent
+in one turn
+10
+control 20
+countries
+
+11
+conquer 10
+countries
+in one turn

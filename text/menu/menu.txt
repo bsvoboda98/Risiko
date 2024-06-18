@@ -1,0 +1,6 @@
+Singleplayer
+Multiplayer
+Settings
+Quit
+Host
+Connect

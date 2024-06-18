@@ -1,0 +1,17 @@
+*********
+Australia
+1697,628
+4
+2
+*********
+text/world_map/australien/westaustralien.txt
+198,122,184
+
+text/world_map/australien/ostaustralien.txt
+198,122,184
+
+text/world_map/australien/neuguniea.txt
+198,122,184
+
+text/world_map/australien/indonesien.txt
+198,122,184

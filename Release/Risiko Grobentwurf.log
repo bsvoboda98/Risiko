@@ -1,0 +1,98 @@
+﻿  clientGame.cpp
+  clientLobby.cpp
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:             T=int
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         and
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,91): warning C4244:         ]
+  game.cpp
+  hostGame.cpp
+  lobby.cpp
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:             T=int
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         and
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\clientLobby.cpp(138,63): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,149): warning C4244: "Argument": Konvertierung von "double" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,149): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,149): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,149): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,149): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,74): warning C4244: "Argument": Konvertierung von "double" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,74): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,74): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,74): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(82,74): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(107,47): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(107,47): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(107,47): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(107,47): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(107,47): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:             T=int
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         and
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,91): warning C4244:         ]
+  main.cpp
+  menu.cpp
+  todo.cpp
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         with
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:             T=int
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         ]
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         and
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         [
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:             T=float
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Risiko Grobentwurf\lobby.cpp(158,63): warning C4244:         ]
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__setsockopt@20".
+sfml-network-s.lib(Socket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__socket@12".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__socket@12".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__connect@12".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__connect@12".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__getsockname@12".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__getsockname@12".
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__getsockname@12".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htonl@4".
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htonl@4".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htonl@4".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htonl@4".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__inet_addr@4".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__inet_ntoa@4".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohl@4".
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohl@4".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohl@4".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__getaddrinfo@16".
+sfml-network-s.lib(IpAddress.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__freeaddrinfo@4".
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htons@4".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__htons@4".
+sfml-network-s.lib(Packet.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohs@4".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohs@4".
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ntohs@4".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__getpeername@12".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__recv@16".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__select@20".
+sfml-network-s.lib(SocketSelector.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__select@20".
+sfml-network-s.lib(TcpSocket.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__send@16".
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__accept@12".
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__bind@12".
+sfml-network-s.lib(TcpListener.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__listen@8".
+sfml-network-s.lib(SocketSelector.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "___WSAFDIsSet@8".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__closesocket@4".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ioctlsocket@12".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__WSAStartup@8".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__WSACleanup@0".
+sfml-network-s.lib(SocketImpl.cpp.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__WSAGetLastError@0".
+C:\Users\Bennet\source\repos\WiSe1920_Padi28\Risiko Grobentwurf\Release\Risiko Grobentwurf.exe : fatal error LNK1120: 25 nicht aufgelöste Externe

@@ -1,0 +1,17 @@
+*********
+South America
+594,518
+4
+2
+*********
+text/world_map/suedamerika/venezuela.txt
+207,133,108
+
+text/world_map/suedamerika/brasilien.txt
+207,133,108
+
+text/world_map/suedamerika/peru.txt
+207,133,108
+
+text/world_map/suedamerika/argentinien.txt
+207,133,108
